@@ -1,0 +1,9 @@
+# NAME: pikpak
+payload:
+  - DOMAIN,access.mypikpak.com,Pikpak
+  - DOMAIN,api-drive.mypikpak.com,Pikpak
+  - DOMAIN,user.mypikpak.net,Pikpak
+  - DOMAIN,api-drive.mypikpak.net,Pikpak
+  - DOMAIN,config.mypikpak.net,Pikpak
+  - DOMAIN,access.mypikpak.net,Pikpak
+  - DOMAIN,access.pikpak.me,Pikpak
